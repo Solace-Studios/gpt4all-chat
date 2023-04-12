@@ -8,11 +8,18 @@ A web chat interface for the GPT4All language model.
 ```
 npm install gpt4all gpt4all-ts typescript ts-loader webpack webpack-cli webpack-dev-server --save-dev
 ```
-2. Build and run the project:
+
+2. To build the project with Webpack, enter the command:
 ```
-Type npm run build and press Enter to build the project with Webpack.
+npm run build
+```
 
-Type npm start and press Enter to start the development server with Webpack.
+3. To start the development server with Webpack.
+```
+npm start
+``` 
 
-Open your web browser and navigate to http://localhost:8080 to access the GPT4All web chat interface.
+4. To access the GPT4All web chat interface.
+```
+Open your web browser and navigate to http://localhost:8080 
 ```
