@@ -6,7 +6,7 @@ A web chat interface for the GPT4All language model.
 
 1. Install dependencies:
 ```
-npm install gpt4all gpt4all-ts typescript ts-loader webpack webpack-cli webpack-dev-server --save-dev
+npm install gpt4all typescript ts-loader webpack webpack-cli webpack-dev-server --save-dev
 ```
 
 2. To build the project with Webpack, enter the command:
