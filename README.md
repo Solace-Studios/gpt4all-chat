@@ -19,7 +19,4 @@ npm run build
 npm start
 ``` 
 
-4. To access the GPT4All web chat interface.
-```
-Open your web browser and navigate to http://localhost:8080 
-```
+4. To access the GPT4All web chat interface. Open your web browser and navigate to http://localhost:8080 
